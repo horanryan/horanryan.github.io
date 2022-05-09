@@ -1,0 +1,4 @@
+# ignore md files
+*.md
+#except for this file
+!README.md
